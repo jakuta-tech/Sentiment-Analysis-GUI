@@ -1,1 +1,1 @@
-# Sentiment-GUI
+# Sentiment-Analysis with Python GUI
